@@ -36,3 +36,5 @@ BuildNo: 4 | @pr4k | Custom Message  | move = 5. ... e6  | fen = rnbqkbnr/p1p1p1
 BuildNo: 4 | @pr4k | Custom Message  | move = 6. c4  | fen = rnbqkbnr/p1p3p1/1p2p3/3p1p1p/1P2P2P/3P4/P1P2PP1/RNBQKBNR w KQkq - 0 6
 
 BuildNo: 4 | @pr4k | Custom Message  | move = 6. ... a5  | fen = rnbqkbnr/p1p3p1/1p2p3/3p1p1p/1PP1P2P/3P4/P4PP1/RNBQKBNR b KQkq - 0 6
+
+BuildNo: 4 | @pr4k | Custom Message  | move = 6. ... a5  | fen = rnbqkbnr/p1p3p1/1p2p3/3p1p1p/1PP1P2P/3P4/P4PP1/RNBQKBNR b KQkq - 0 6
