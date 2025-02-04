@@ -48,3 +48,5 @@ BuildNo: 4 | @pr4k | Custom Message  | move = 7. cxd5  | fen = rnbqkbnr/2p3p1/1p
 BuildNo: 4 | @pr4k | Custom Message  | move = 7. ... exd5  | fen = rnbqkbnr/2p3p1/1p2p3/p2P1p1p/1P2P2P/3P4/P4PP1/RNBQKBNR b KQkq - 0 7
 
 BuildNo: 4 | @pr4k | Custom Message  | move = 7. ... exd5  | fen = rnbqkbnr/2p3p1/1p6/p2p1p1p/1P2P2P/3P4/P4PP1/RNBQKBNR w KQkq - 0 8
+
+BuildNo: 4 | @pr4k | Custom Message  | move = 1. g4  | fen = rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1
