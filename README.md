@@ -60,3 +60,5 @@ BuildNo: 4 | @pr4k | Custom Message  | move = 2. ... g6  | fen = rnbqkbnr/pppppp
 BuildNo: 4 | @pr4k | Custom Message  | move = 3. hxg6  | fen = rnbqkbnr/pppppp2/6P1/8/8/8/PPPPPP1P/RNBQKBNR b KQkq - 0 3
 
 BuildNo: 4 | @pr4k | Custom Message  | move = 3. ... fxg6  | fen = rnbqkbnr/ppppp3/6p1/8/8/8/PPPPPP1P/RNBQKBNR w KQkq - 0 4
+
+BuildNo: 4 | @pr4k | Custom Message  | move = 4. h4  | fen = rnbqkbnr/ppppp3/6p1/8/7P/8/PPPPPP2/RNBQKBNR b KQkq - 0 4
