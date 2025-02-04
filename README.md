@@ -84,3 +84,5 @@ BuildNo: 0 | @pr4k | Custom Message  | move = 1. ... Rh2#  | fen = 5k2/8/8/8/8/5
 BuildNo: 0 | @pr4k | Custom Message  | move = 1. Kb2  | fen = 5k2/8/7r/8/8/5q2/1K6/4r3 b - - 1 1
 
 BuildNo: 0 | @pr4k | Custom Message  | move = 1. ... Rh2#  | fen = 5k2/8/8/8/8/5q2/1K5r/4r3 w - - 2 2
+
+BuildNo: 0 | @pr4k | Custom Message  | move = 1. Kb2  | fen = 5k2/8/7r/8/8/5q2/1K6/4r3 b - - 1 1
