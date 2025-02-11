@@ -92,3 +92,5 @@ BuildNo: 0 | @pr4k | Custom Message  | move = 1. ... Rh2#  | fen = 5k2/8/8/8/8/5
 BuildNo: 1 | @pr4k | Game Reset  | move = NA  | fen = rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 BuildNo: 1 | @pr4k | Custom Message  | move = 1. g4  | fen = rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1
+
+BuildNo: 1 | @pr4k | sndfjksndfkjsnd | move = 1. ... b5  | fen = rnbqkbnr/p1pppppp/8/1p6/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
