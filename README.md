@@ -108,3 +108,5 @@ BuildNo: 1 | @pr4k | kjsnfkjnkjsdnf  | move = 1. ... g5  | fen = rnbqkbnr/pppppp
 BuildNo: 1 | @boxdoc | Sample Message  | move = 2. b4  | fen = rnbqkbnr/pppppp1p/8/6p1/1P4P1/8/P1PPPP1P/RNBQKBNR b KQkq - 0 2
 
 BuildNo: 1 | @boxdox | sfdsdf  | move = 2. ... d5  | fen = rnbqkbnr/ppp1pp1p/8/3p2p1/1P4P1/8/P1PPPP1P/RNBQKBNR w KQkq - 0 3
+
+BuildNo: 1 | @pr4k | testing  | move = 3. e4  | fen = rnbqkbnr/ppp1pp1p/8/3p2p1/1P2P1P1/8/P1PP1P1P/RNBQKBNR b KQkq - 0 3
