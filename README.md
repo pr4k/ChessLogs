@@ -106,3 +106,5 @@ BuildNo: 1 | @pr4k | lskdmflkmsdlkfm | move = 1. ... b5  | fen = rnbqkbnr/p1pppp
 BuildNo: 1 | @pr4k | kjsnfkjnkjsdnf  | move = 1. ... g5  | fen = rnbqkbnr/pppppp1p/8/6p1/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
 
 BuildNo: 1 | @boxdoc | Sample Message  | move = 2. b4  | fen = rnbqkbnr/pppppp1p/8/6p1/1P4P1/8/P1PPPP1P/RNBQKBNR b KQkq - 0 2
+
+BuildNo: 1 | @boxdox | sfdsdf  | move = 2. ... d5  | fen = rnbqkbnr/ppp1pp1p/8/3p2p1/1P4P1/8/P1PPPP1P/RNBQKBNR w KQkq - 0 3
