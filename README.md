@@ -114,3 +114,5 @@ BuildNo: 1 | @pr4k | testing  | move = 3. e4  | fen = rnbqkbnr/ppp1pp1p/8/3p2p1/
 BuildNo: 1 | @musaibjs | sdnfkjsdnf  | move = 3. ... dxe4  | fen = rnbqkbnr/ppp1pp1p/8/6p1/1P2p1P1/8/P1PP1P1P/RNBQKBNR w KQkq - 0 4
 
 BuildNo: 1 | @pr4k | skndfkjsdnf  | move = 4. f3  | fen = rnbqkbnr/ppp1pp1p/8/6p1/1P2p1P1/5P2/P1PP3P/RNBQKBNR b KQkq - 0 4
+
+BuildNo: 1 | @quoraboy | Sample message  | move = 4. ... c5  | fen = rnbqkbnr/pp2pp1p/8/2p3p1/1P2p1P1/5P2/P1PP3P/RNBQKBNR w KQkq - 0 5
