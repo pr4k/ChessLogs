@@ -102,3 +102,5 @@ BuildNo: 1 | @ersfsdf | sdfsdfsdfsdf  | move = 1. ... c5  | fen = rnbqkbnr/pp1pp
 BuildNo: 1 | @pr4k | skjdfkjsmfksdmf | move = 1. ... c5  | fen = rnbqkbnr/pp1ppppp/8/2p5/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
 
 BuildNo: 1 | @pr4k | lskdmflkmsdlkfm | move = 1. ... b5  | fen = rnbqkbnr/p1pppppp/8/1p6/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
+
+BuildNo: 1 | @pr4k | kjsnfkjnkjsdnf  | move = 1. ... g5  | fen = rnbqkbnr/pppppp1p/8/6p1/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
