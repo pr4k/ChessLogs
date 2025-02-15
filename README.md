@@ -124,3 +124,5 @@ BuildNo: 1 | @pr4k | Testing Deploy  | move = 5. ... b6  | fen = rnbqkbnr/p3pp1p
 BuildNo: 1 | @boxdox | Testing Deploy  | move = 6. cxb6  | fen = rnbqkbnr/p3pp1p/1P6/6p1/4p1P1/5P2/P1PP3P/RNBQKBNR b KQkq - 0 6
 
 BuildNo: 1 | @pr4k | Sample message  | move = 6. ... exf3  | fen = rnbqkbnr/p3pp1p/1P6/6p1/6P1/5p2/P1PP3P/RNBQKBNR w KQkq - 0 7
+
+BuildNo: 1 | @pr4k | Testing webhook | move = 7. bxa7  | fen = rnbqkbnr/P3pp1p/8/6p1/6P1/5p2/P1PP3P/RNBQKBNR b KQkq - 0 7
