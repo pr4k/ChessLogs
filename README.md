@@ -128,3 +128,5 @@ BuildNo: 1 | @pr4k | Sample message  | move = 6. ... exf3  | fen = rnbqkbnr/p3pp
 BuildNo: 1 | @pr4k | Testing webhook | move = 7. bxa7  | fen = rnbqkbnr/P3pp1p/8/6p1/6P1/5p2/P1PP3P/RNBQKBNR b KQkq - 0 7
 
 BuildNo: 1 | @Maeve03 | Let's see  | move = 7. ... Rxa7  | fen = 1nbqkbnr/r3pp1p/8/6p1/6P1/5p2/P1PP3P/RNBQKBNR w KQk - 0 8
+
+BuildNo: 1 | @sumandipanshu | Hope it's a good move  | move = 8. c4  | fen = 1nbqkbnr/r3pp1p/8/6p1/2P3P1/5p2/P2P3P/RNBQKBNR b KQk - 0 8
