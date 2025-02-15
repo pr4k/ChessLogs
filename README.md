@@ -134,3 +134,5 @@ BuildNo: 1 | @sumandipanshu | Hope it's a good move  | move = 8. c4  | fen = 1nb
 BuildNo: 1 | @pr4k | Testing Message  | move = 8. ... Rxa2  | fen = 1nbqkbnr/4pp1p/8/6p1/2P3P1/5p2/r2P3P/RNBQKBNR w KQk - 0 9
 
 BuildNo: 1 | @suman_dipanshu | Sample text  | move = 9. Rxa2  | fen = 1nbqkbnr/4pp1p/8/6p1/2P3P1/5p2/R2P3P/1NBQKBNR b Kk - 0 9
+
+BuildNo: 1 | @sumandipanshu | Testing Move  | move = 9. ... Qxd2+  | fen = 1nb1kbnr/4pp1p/8/6p1/2P3P1/5p2/R2q3P/1NBQKBNR w Kk - 0 10
