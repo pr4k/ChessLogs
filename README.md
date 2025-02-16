@@ -136,3 +136,5 @@ BuildNo: 1 | @pr4k | Testing Message  | move = 8. ... Rxa2  | fen = 1nbqkbnr/4pp
 BuildNo: 1 | @suman_dipanshu | Sample text  | move = 9. Rxa2  | fen = 1nbqkbnr/4pp1p/8/6p1/2P3P1/5p2/R2P3P/1NBQKBNR b Kk - 0 9
 
 BuildNo: 1 | @sumandipanshu | Testing Move  | move = 9. ... Qxd2+  | fen = 1nb1kbnr/4pp1p/8/6p1/2P3P1/5p2/R2q3P/1NBQKBNR w Kk - 0 10
+
+BuildNo: 1 | @pr4k | Testing  | move = 1. ... c5  | fen = rnbqkbnr/pp1ppppp/8/2p5/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
