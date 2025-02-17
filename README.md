@@ -148,3 +148,5 @@ BuildNo: 1 | @pr4k | skjdnfkjsnfkjsdnf  | move = 1. ... c5  | fen = rnbqkbnr/pp1
 BuildNo: 1 | @pr4k | KJNSkjfnskdnf  | move = 1. ... c5  | fen = rnbqkbnr/pp1ppppp/8/2p5/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
 
 BuildNo: 1 | @pr4k | Testing commit status  | move = 1. ... c5  | fen = rnbqkbnr/pp1ppppp/8/2p5/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
+
+BuildNo: 1 | @pr4k | skjnfkjsnfksjdnf  | move = 1. ... c5  | fen = rnbqkbnr/pp1ppppp/8/2p5/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
