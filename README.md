@@ -154,3 +154,5 @@ BuildNo: 1 | @pr4k | skjnfkjsnfksjdnf  | move = 1. ... c5  | fen = rnbqkbnr/pp1p
 BuildNo: 1 | @pr4k | kdfkdfgkjdmfg  | move = 1. ... c5  | fen = rnbqkbnr/pp1ppppp/8/2p5/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
 
 BuildNo: 1 | @pr4k | skjndfkjsdnf  | move = 1. ... b5  | fen = rnbqkbnr/p1pppppp/8/1p6/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2
+
+BuildNo: 1 | @pr4l | Sample commit  | move = 2. a4  | fen = rnbqkbnr/p1pppppp/8/1p6/P5P1/8/1PPPPP1P/RNBQKBNR b KQkq - 0 2
