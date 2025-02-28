@@ -158,3 +158,5 @@ BuildNo: 1 | @pr4k | skjndfkjsdnf  | move = 1. ... b5  | fen = rnbqkbnr/p1pppppp
 BuildNo: 1 | @pr4l | Sample commit  | move = 2. a4  | fen = rnbqkbnr/p1pppppp/8/1p6/P5P1/8/1PPPPP1P/RNBQKBNR b KQkq - 0 2
 
 BuildNo: 1 | @pr4k | Sample message  | move = 2. ... bxa4  | fen = rnbqkbnr/p1pppppp/8/8/p5P1/8/1PPPPP1P/RNBQKBNR w KQkq - 0 3
+
+BuildNo: 1 | @sumandipanshu | My great move  | move = 3. e4  | fen = rnbqkbnr/p1pppppp/8/8/p3P1P1/8/1PPP1P1P/RNBQKBNR b KQkq - 0 3
